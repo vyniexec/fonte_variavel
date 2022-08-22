@@ -1,4 +1,4 @@
-# Fonte  Variável e Fixa(+12 ou +5v)
+# Fonte  Variável e Fixa(+12v ou +5v)
 |Esquemático|
 |:---------:|
 ![Esquematico](https://github.com/vyniexec/fonte_variavel/blob/main/Fonte_Variavel_Esquematico.PNG)
